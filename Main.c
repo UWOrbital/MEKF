@@ -34,7 +34,7 @@
 #include "quaternion/Quaternion.h"												// Courtesy of Martin Weigel					- Copyright (C) 2019
 
 
-int Main()
+int main()
 {
 	// Constants
 	float DELTA_TIME = 0.134;											// Timestep
